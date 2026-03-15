@@ -1,0 +1,16 @@
+# Compiled objects
+obj/
+
+# Build artifacts
+vendor/raylib/build/
+vendor/raylib/*.a
+vendor/raylib/*.so
+vendor/raylib/*.dll
+vendor/raylib/*.dylib
+
+# Project executables
+underforge
+executables/
+
+# Savefiles
+*.sav
